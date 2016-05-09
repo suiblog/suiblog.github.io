@@ -1,11 +1,11 @@
-# Site settings
-title: sui的个人博客
+﻿# Site settings
+title: 阿广的个人博客
 email: 897970325@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  sui的博客
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://suiblog.com" # the base hostname & protocol for your site
-#rss_url: /pages/feed.xml
+  阿广的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.suiblog.com" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
