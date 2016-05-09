@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux下多个命令连续执行方法
-category: 人物
+category: 工具
 tags: Linux
 keywords: Linux,连续,命令
 description: 
