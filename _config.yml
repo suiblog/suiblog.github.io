@@ -4,8 +4,8 @@ email: 897970325@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   Sui - Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://wpa.qq.com" # the base hostname & protocol for your site
-rss_url: /msgrd?V=1&Uin=897970325&Site&Menu=yes 
+url: "http://www.suiblog.com" # the base hostname & protocol for your site
+rss_url: http://wpa.qq.com/msgrd?V=1&Uin=897970325&Site&Menu=yes 
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
