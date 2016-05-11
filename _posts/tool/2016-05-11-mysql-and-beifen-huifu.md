@@ -6,8 +6,6 @@ tags: MySQL
 description: 在使用mysql的时候发现数据需要经常备份，所以在这写了这个备份恢复的文章。
 ---
 
-## Linux下通过mysql自带命令备份恢复
-
 mysqldump命令实现
 
 # 1.备份（导出）
