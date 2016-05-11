@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux下安装搭建PHP运行环境
-category: 工具
+category: 实验
 tags: [Linux 环境]
 description: linux环境安装是学习linux必须要具备的技能之一
 ---
