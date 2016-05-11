@@ -18,10 +18,14 @@ description: linux环境安装是学习linux必须要具备的技能之一
 
 # 一、安装配置Apache服务
 
+安装Apache
+
     yum install httpd -y
+	
 启动Apache
 
     /etc/init.d/httpd start
+	
 备注：Apache启动之后会提示如下错误：
 
     httpd:httpd: Could not reliably determine the server’s fully qualif domain name, using ::1 for ServerName
@@ -68,7 +72,6 @@ description: linux环境安装是学习linux必须要具备的技能之一
 
     cp  -f /usr/share/mysql/my-medium.cnf  /etc/my.cnf
  
-
 设置密码
 
     mysql_secure_installation
