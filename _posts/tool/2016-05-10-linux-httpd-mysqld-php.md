@@ -43,9 +43,11 @@ description: linux环境安装是学习linux必须要具备的技能之一
 设为开机启动
 
     chkconfig httpd on
+	
 重启Apache
 
     /etc/init.d/httpd restart
+
 # 二丶安装配置Mysql服务
 
     yum install mysql mysql-server
