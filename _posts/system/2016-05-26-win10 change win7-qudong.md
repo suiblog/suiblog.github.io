@@ -1,12 +1,12 @@
 ---
 layout: post
-title: inter 5代CPU win10转win7
+title: intel 5代CPU win10转win7
 category: 分享
 tags: 系统
 description: 
 ---
 
-inter 5代CPU win10转win7 U盘不显示问题解决方法
+intel 5代CPU win10转win7 U盘不显示问题解决方法
 
 ## 百度云分享链接
 
