@@ -8,4 +8,4 @@ layout: post
 
 ## 博客平台
 
-另一博客[>>>>>>点我点我<<<<<<](http://suiblog.com/)在自己维护的linux服务器上运行.
+如需学习更多详细学习资料请点击     [>>点我哦<<](http://suiblog.com/)
