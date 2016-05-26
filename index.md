@@ -4,7 +4,7 @@ layout: post
 
 ## 欢迎来到我的博客
 对自己的不满足，是任何真正有天才的人的根本特征之一。    
-<div style="float:right">------------------契诃夫</div>
+<div style="text-align:right">------------------契诃夫</div>
 
 
 ## 博客平台
