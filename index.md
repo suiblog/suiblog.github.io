@@ -8,4 +8,4 @@ layout: post
 
 ## 博客平台
 
-如需学习更多详细学习资料请点击     [>>	 	 点我哦<-<-](http://suiblog.com/)
+如需学习更多详细学习资料请点击     [>>点我哦<<   O(∩_∩)O~](http://suiblog.com/)
