@@ -1,5 +1,10 @@
 <aside id="sidebar">
-  <div id="sidebar-left">
+<section class="canvas-wrap">
+
+
+	
+
+  <div id="sidebar-left" class="gradient">
     <a id="sidebar-avatar" href="{{ "/" | prepend: site.baseurl }}">
       <img id="sidebar-avatar-img" alt="{{ site.tittle }}" src="{{ site.avatar | prepend: site.baseurl }}"/>
     </a>
@@ -23,14 +28,10 @@
       {% endif %}
     </ul>
   </div>
-<section class="canvas-wrap">
-
-
-	
-
+</section>
   <div id="sidebar-right">
     <div id="search-box">
-      <input id="search-input" type="text" placeholder="Search"class="gradient" />
+      <input id="search-input" type="text" placeholder="Search" />
     </div>
 
     <nav id="toc">
@@ -49,5 +50,4 @@
       {% endif %}
     </nav>
   </div>
-  </section>
 </aside>
