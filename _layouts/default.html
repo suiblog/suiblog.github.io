@@ -3,15 +3,16 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html>
+<section class="canvas-wrap">
+
+	<div id="canvas" class="gradient"></div>
+	
+
   {% include head.html %}
   <body>
-  <section class="canvas-wrap">
-
-	
-
     {% include sidebar.html %}
 	
-    <main id="main" class="gradient">
+    <main id="main">
 	  {{ content }}
       <div id="uyan_frame" class="container"></div>
 	  <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2101491"></script>
@@ -31,6 +32,6 @@ layout: compress
 
     {% include scripts.html %}
     {% include googleanalytics.html %}
-	</section>
   </body>
+  </section>
 </html>
