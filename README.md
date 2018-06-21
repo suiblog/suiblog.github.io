@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://www.suiblog.com](http://www.suiblog.com)
+地址：[http://www.vmsdn.com](http://www.vmsdn.com)
 
 ### 安装说明
 
